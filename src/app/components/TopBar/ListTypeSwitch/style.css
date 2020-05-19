@@ -1,0 +1,12 @@
+.types {
+  margin-right: 16px;
+}
+
+.types button {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.types button.selected {
+  background: rgba(238, 238, 238, 0.5);
+  box-shadow: inset 2px 1px 4px rgba(0, 0, 0, 0.05);
+}
